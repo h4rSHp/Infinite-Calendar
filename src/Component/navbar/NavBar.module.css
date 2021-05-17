@@ -1,0 +1,18 @@
+.mainWrapper{
+    background: rgb(55, 16, 107);
+    color: white;
+    padding-bottom: 4px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.switch{
+    position: absolute;
+    right: 10%;
+}
+@media screen and (max-width: 500px){
+    .wrapper div{
+        width: 60%;
+    }
+}

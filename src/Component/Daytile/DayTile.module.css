@@ -1,0 +1,18 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    background: #086885;
+    color: white;
+}
+.wrapper span{
+    text-align: center;
+    padding: 8px 0;
+    width: 100%;
+    /* border: 1px solid white; */
+}
+.wrapper span:nth-child(even){
+    background: #086885;
+}
+.wrapper span:nth-child(odd){
+    background: #06495e;
+}
