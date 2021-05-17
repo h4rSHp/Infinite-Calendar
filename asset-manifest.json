@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Infinite-Calendar/static/css/main.8e2d4996.chunk.css",
+    "main.js": "/Infinite-Calendar/static/js/main.f7556181.chunk.js",
+    "main.js.map": "/Infinite-Calendar/static/js/main.f7556181.chunk.js.map",
+    "runtime-main.js": "/Infinite-Calendar/static/js/runtime-main.f09b3981.js",
+    "runtime-main.js.map": "/Infinite-Calendar/static/js/runtime-main.f09b3981.js.map",
+    "static/js/2.715f3b90.chunk.js": "/Infinite-Calendar/static/js/2.715f3b90.chunk.js",
+    "static/js/2.715f3b90.chunk.js.map": "/Infinite-Calendar/static/js/2.715f3b90.chunk.js.map",
+    "index.html": "/Infinite-Calendar/index.html",
+    "static/css/main.8e2d4996.chunk.css.map": "/Infinite-Calendar/static/css/main.8e2d4996.chunk.css.map",
+    "static/js/2.715f3b90.chunk.js.LICENSE.txt": "/Infinite-Calendar/static/js/2.715f3b90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f09b3981.js",
+    "static/js/2.715f3b90.chunk.js",
+    "static/css/main.8e2d4996.chunk.css",
+    "static/js/main.f7556181.chunk.js"
+  ]
+}
