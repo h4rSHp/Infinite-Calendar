@@ -1,7 +1,7 @@
 # Infinite Calendar
 [Click here] to open the app
 ### Intro
-This calculator is a web-app, made using ReactJS.
+This web-app is made using `ReactJS`.
 #### Features
 > Infinite Calendar, which loads next dates on coming lowest or top most point
 ### HOW TO USE
